@@ -1,0 +1,18 @@
+/* navbar section  */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/* about section  */
+#about-container{
+    height: 407px;
+    width: 80%;
+}
+/* utility */
+.h-primary{
+    font-size: 26px;
+}
